@@ -249,11 +249,11 @@ body{
 /******** If no item in Search List ********/
 .notFound{
     position:absolute;
-    top:50%;
+    top:60%;
     left:50%;
     transform:translate(-50%,-50%);
     font-weight:600;
-    font-size:1.2rem;
+    font-size:1rem;
     display:none;
 
 }
